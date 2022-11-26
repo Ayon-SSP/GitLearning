@@ -1,1 +1,4 @@
 git stash 
+
+show all the links that are attached to this repo
+git remote -v 
